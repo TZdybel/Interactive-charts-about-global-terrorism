@@ -1,5 +1,6 @@
 # Interactive-charts-about-global-terrorism
-Creating some charts with own parameters with use of global terrorist attack data set.
+Python3\
+Creating some charts with own parameters with use of global terrorist attack data set.\
 Created with use of matplotlib - pyplot.
 Additionaly some very primitive pytest tests.
 
